@@ -37,3 +37,7 @@ make redox/rev1/base:onc:avrdude-split-left
 # right hand (elite-c)
 make redox/rev1/base:onc:dfu-split-right
 ```
+
+## Update upstream repo
+
+See [here](https://github.com/qmk/qmk_firmware/blob/master/docs/newbs_git_using_your_master_branch.md).
